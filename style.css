@@ -1,0 +1,112 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+header div{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+
+}
+
+.left{
+    width: 500px;
+}
+
+.box button{
+    width: 197px;
+    height: 49px;
+    border-radius: 50px;
+    background-color: aqua;
+    border: none;
+
+}
+
+.text{
+    text-align: center;
+    width: 952px;
+    margin: 0 auto;
+
+}
+
+.cards div{
+    
+    width: 380px;
+    height: 380px;
+    background-color: grey;
+    border-radius: 20px;
+
+}
+.cards img,p{
+padding-top: 60px;
+border-radius: 20px;
+
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+
+.el1{
+    text-align: center;
+ 
+
+}
+
+.el2{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+
+
+.eli{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+   
+}
+
+.elwod1{
+    display: flex;
+
+}
+
+.el11{
+    
+}
+
+
+
+
+
+
+
+
+
